@@ -27,7 +27,7 @@ This project implements a complete shopping cart system with the following featu
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd lcc-assignment
+   cd lc-assignment
    ```
 
 2. **Install PHP dependencies**
